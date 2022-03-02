@@ -9,7 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxt/test-utils": "^0.2.2",
+    "@types/jest": "^27.4.1",
     "core-js": "^3.8.2",
+    "jest": "^27.5.1",
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
